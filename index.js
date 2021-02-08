@@ -58,7 +58,6 @@ client.on('message', (receivedMessage) => {
         max = Math.floor(frases.length)
         var number = Math.floor(Math.random() * (max - min)) + min
         receivedMessage.channel.send(frases[number])
-        console.log(number)
     }
 })
 
