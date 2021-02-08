@@ -62,4 +62,4 @@ client.on('message', (receivedMessage) => {
     }
 })
 
-client.login("ODAzNjk3MzY2NTU2MzQ0Mzgw.YBBjgA.u2Y1P_7_Nx_Dkk_0s32Pl1IZ-1w");
+client.login("#");
