@@ -13,7 +13,7 @@ client.on('ready', () => {
         })
     });
 
-    let channel = client.channels.cache.get("713048835647209492")
+    let channel = client.channels.cache.get("#")
 })
 
 client.on('message', (receivedMessage) => {
